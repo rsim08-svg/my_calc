@@ -1,0 +1,9 @@
+# Object files
+*.o
+*.obj
+
+# Executable files
+cmdcalc
+
+# Makefile generated files
+*.d
